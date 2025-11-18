@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss()],
-   base:"/Weather-App-React/docs-mini-reactjs"
+   base:"/Weather-App-React/Doc-mini-Reactjs-"
 })
